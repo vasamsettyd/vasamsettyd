@@ -1,40 +1,9 @@
 <h1>Hi, I'm Deekshitha! 
 
-<h2>👨‍💻 Cybersecurity Analyst Projects:</h2>
+I'm a passionate Computer Science student and full-stack developer with a knack for building user-focused web applications. I specialize in crafting efficient, scalable solutions using Next.js, Django, PostgreSQL, and JavaScript. During my Piper Sandler internship, I developed features that boosted customer engagement by 10% and optimized codebases for 10% faster performance.
 
-- <b>PowerShell</b>
-  - [Active Directory home lab](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
- 
-  - <h2>📺 Cybersecurity Certifications </h2>
+Check out my project CareerTrackr, a job application tracker built with Next.js and Prisma to streamline the job hunt. I’m always exploring new tech, contributing to open-source, and solving real-world problems.
 
-- Google Cybersecurity Professional Certification
- 
-  - <h2> 🤳 Connect with me:</h2>
+📫 Connect with me: [www.linkedin.com/in/dixitha | deekshitha4793@gmail.com
+🌟 Star my repos if you like what you see!
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[linkedin]:  https://www.linkedin.com/in/deekshitha-vs/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
