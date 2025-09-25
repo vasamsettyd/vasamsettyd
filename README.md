@@ -2,6 +2,20 @@ Hi, I'm Deekshitha! 👋
 
 I'm a passionate Computer Science student and full-stack developer with a knack for building user-focused web applications. I specialize in crafting efficient, scalable solutions using Next.js, Django, PostgreSQL, and JavaScript. During my Piper Sandler internship, I developed features that boosted customer engagement by 10% and optimized codebases for 10% faster performance.
 
+**Skills
+
+Frontend: Next.js, React, JavaScript, Bootstrap
+
+Backend: Django, Node.js, Prisma
+
+Database: PostgreSQL, SQL
+
+Tools: Git, Vercel, Docker
+
+**Featured Projects
+
+CareerTrackr: A full-stack job application tracker built with Next.js, PostgreSQL, and Prisma. Features real-time status updates and analytics. Live Demo
+
 Check out my project CareerTrackr, a job application tracker built with Next.js and Prisma to streamline the job hunt. I’m always exploring new tech, contributing to open-source, and solving real-world problems.
 
 📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/dixitha) | [deekshitha4793@gmail.com](mailto:deekshitha4793@gmail.com)
