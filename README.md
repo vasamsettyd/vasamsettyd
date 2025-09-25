@@ -4,7 +4,6 @@ I'm a passionate Computer Science student and full-stack developer with a knack 
 
 Check out my project CareerTrackr, a job application tracker built with Next.js and Prisma to streamline the job hunt. I’m always exploring new tech, contributing to open-source, and solving real-world problems.
 
-📫 Connect with me:
-www.linkedin.com/in/dixitha | deekshitha4793@gmail.com
+📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/dixitha) | [deekshitha4793@gmail.com](mailto:deekshitha4793@gmail.com)
 
 🌟 Star my repos if you like what you see!
